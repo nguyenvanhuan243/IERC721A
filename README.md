@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8c98083b-ba19-4642-a8c5-f696ce86131f)
+
 [![Docs][docs-shield]][docs-url]
 [![NPM][npm-shield]][npm-url]
 [![CI][ci-shield]][ci-url]
